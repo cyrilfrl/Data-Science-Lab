@@ -1,0 +1,12 @@
+
+- titanic survival
+- house price regression
+- student performance prediction https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
+- day and night classification https://www.kaggle.com/datasets/heonh0/daynight-cityview
+- mongo disease https://www.kaggle.com/datasets/tahmidmir/mangoleaf
+- butterfly https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification
+- weather forecast https://www.kaggle.com/datasets/nikhil7280/weather-type-classification 
+- BirdCLEF 2024 https://www.kaggle.com/competitions/birdclef-2024 
+- art competition https://www.kaggle.com/competitions/gan-getting-started
+- BigQuery introduction https://www.youtube.com/watch?v=MH5M2Crn6Ag&ab_channel=MeasureSchool
+
