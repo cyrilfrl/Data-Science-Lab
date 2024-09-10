@@ -1,1 +1,1 @@
-"# MLDS-Practice-Notebooks" 
+Notebook of solutions to machine learning and data science problems based on Kaggle datasets and other sources (provided by someone with no practical experience so those solutions might not be the best).
