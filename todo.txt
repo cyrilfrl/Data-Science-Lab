@@ -1,6 +1,23 @@
 
-- titanic survival
-- house price regression
+- house price regression https://www.youtube.com/watch?v=NQQ3DRdXAXE&ab_channel=KenJee
+- Rob Mulla https://www.youtube.com/playlist?list=PL7RwtdVQXQ8o6CYe1Teo7FzkrQQoT0c9i
+- store sales forecasting
+- deep learning projects https://www.youtube.com/playlist?list=PLgNJO2hghbmiXg5d4X8DURJP9yv9pgjIu
+- various neural networks https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfN3lrO0NDYxa1JwCYes-E
+- neural network weather forecasting https://www.youtube.com/watch?v=mgX0Iz4q0bE&pp=ygUmbmV1cmFsIG5ldHdvcmsgdGltZSBzZXJpZXMgZm9yZWNhc3Rpbmc%3D
+- neural networks text generation https://www.youtube.com/watch?v=QM5XDc4NQJo&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-&ab_channel=NeuralNine
+- neat algorithm introduction https://www.youtube.com/watch?v=ZC0gMhYhwW0&ab_channel=sentdex
+- neat flappy bird https://www.youtube.com/watch?v=OGHA-elMrxI&ab_channel=TechWithTim
+- neat pong https://www.youtube.com/watch?v=2f6TmKm7yx0&ab_channel=TechWithTim
+- neat snake https://www.youtube.com/watch?v=L8ypSXwyBds&ab_channel=freeCodeCamp.org
+- computer vision for self-driving cars https://www.youtube.com/watch?v=cPOtULagNnI&pp=ygUbbmV1cmFsbmluZSBzZWxmIGRyaXZpbmcgY2Fy
+- climate change https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data https://www.youtube.com/watch?v=7FrKIa6PMNQ&ab_channel=CrystalX
+- openai gym exercising https://openai.com/index/openai-gym-beta/
+- brain tumor mri dataset https://www.youtube.com/watch?v=LYlb7Go9rgM&ab_channel=DataScienceSolutions
+- neural network diabetic retinopathy solution https://www.youtube.com/watch?v=YxQYvhap3kE&ab_channel=AladdinPersson
+- dog vs wolves https://www.youtube.com/watch?v=bc8gbS2aKwc&ab_channel=DataScienceSolutions
+- facial recognition app https://www.youtube.com/playlist?list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH
+- ad click prediction https://www.youtube.com/watch?v=4Go5crRVyuU&ab_channel=YanAITalk
 - student performance prediction https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
 - day and night classification https://www.kaggle.com/datasets/heonh0/daynight-cityview
 - mongo disease https://www.kaggle.com/datasets/tahmidmir/mangoleaf
@@ -10,3 +27,4 @@
 - art competition https://www.kaggle.com/competitions/gan-getting-started
 - BigQuery introduction https://www.youtube.com/watch?v=MH5M2Crn6Ag&ab_channel=MeasureSchool
 
+- reinforcement learning https://www.youtube.com/watch?v=Mut_u40Sqz4&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&ab_channel=NicholasRenotte
