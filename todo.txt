@@ -1,20 +1,30 @@
 
-- house price regression https://www.youtube.com/watch?v=NQQ3DRdXAXE&ab_channel=KenJee
-- Rob Mulla https://www.youtube.com/playlist?list=PL7RwtdVQXQ8o6CYe1Teo7FzkrQQoT0c9i
-- store sales forecasting
 
+- home electricity consumption prediciton
+
+- store sales forecasting
+- hourly energy consumption
 - optuna https://www.youtube.com/watch?v=t-INgABWULw&ab_channel=Ryan%26MattDataScience
+- xgboost https://www.youtube.com/watch?v=TyvYZ26alZs&ab_channel=Econoscent https://www.youtube.com/watch?v=OtD8wVaFm6E&t=191s&ab_channel=StatQuestwithJoshStarmer https://www.youtube.com/watch?v=8b1JEDvenQU&ab_channel=StatQuestwithJoshStarmer https://www.youtube.com/watch?v=ZVFeW798-2I&ab_channel=StatQuestwithJoshStarmer https://www.youtube.com/watch?v=oRrKeUCEbq8&ab_channel=StatQuestwithJoshStarmer
+
 - deep learning projects https://www.youtube.com/playlist?list=PLgNJO2hghbmiXg5d4X8DURJP9yv9pgjIu
+
+- multiclass classification mnist logistic regression https://www.youtube.com/watch?v=oYVdzBjkiZ4&ab_channel=KhawarShehzad
+- multiclass classification mnist neural network https://www.youtube.com/watch?v=obOjpVdO3gY&ab_channel=DigitalSreeni
+- keras multiclass classification ROC and AUC https://www.youtube.com/watch?v=-f3bg9dLMks&ab_channel=JeffHeaton
+- multiclass iris dataset https://www.youtube.com/watch?v=pTjsr_0YWas&ab_channel=HackersRealm
+- multilabel https://www.youtube.com/watch?v=hraKTseOuJA&ab_channel=DigitalSreeni
 - dog vs wolves https://www.youtube.com/watch?v=bc8gbS2aKwc&ab_channel=DataScienceSolutions
+
 - various neural networks:
     - https://youtu.be/jztwpsIzEGc?feature=shared&t=1541
     - https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfN3lrO0NDYxa1JwCYes-E
-- neural network weather forecasting https://www.youtube.com/watch?v=mgX0Iz4q0bE&pp=ygUmbmV1cmFsIG5ldHdvcmsgdGltZSBzZXJpZXMgZm9yZWNhc3Rpbmc%3D
-- neural networks text generation https://www.youtube.com/watch?v=QM5XDc4NQJo&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-&ab_channel=NeuralNine
 - neat algorithm introduction https://www.youtube.com/watch?v=ZC0gMhYhwW0&ab_channel=sentdex
 - neat flappy bird https://www.youtube.com/watch?v=OGHA-elMrxI&ab_channel=TechWithTim
 - neat pong https://www.youtube.com/watch?v=2f6TmKm7yx0&ab_channel=TechWithTim
 - neat snake https://www.youtube.com/watch?v=L8ypSXwyBds&ab_channel=freeCodeCamp.org
+- neural network weather forecasting https://www.youtube.com/watch?v=mgX0Iz4q0bE&pp=ygUmbmV1cmFsIG5ldHdvcmsgdGltZSBzZXJpZXMgZm9yZWNhc3Rpbmc%3D
+- neural networks text generation https://www.youtube.com/watch?v=QM5XDc4NQJo&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-&ab_channel=NeuralNine
 - computer vision for self-driving cars https://www.youtube.com/watch?v=cPOtULagNnI&pp=ygUbbmV1cmFsbmluZSBzZWxmIGRyaXZpbmcgY2Fy
 - climate change https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data https://www.youtube.com/watch?v=7FrKIa6PMNQ&ab_channel=CrystalX
 - brain tumor mri dataset https://www.youtube.com/watch?v=LYlb7Go9rgM&ab_channel=DataScienceSolutions
@@ -31,5 +41,6 @@
 - art competition https://www.kaggle.com/competitions/gan-getting-started
 - BigQuery introduction https://www.youtube.com/watch?v=MH5M2Crn6Ag&ab_channel=MeasureSchool
 
+- reinforcement learning with openai gym https://www.youtube.com/watch?v=cO5g5qLrLSo&ab_channel=NicholasRenotte
 - reinforcement learning https://www.youtube.com/watch?v=Mut_u40Sqz4&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&ab_channel=NicholasRenotte
 - reinforcement learning for gaming https://www.youtube.com/watch?v=dWmJ5CXSKdw&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&index=8&ab_channel=NicholasRenotte
